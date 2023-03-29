@@ -1,0 +1,3 @@
+When an object/class encapsulates data or means of doing something with the data using methods.
+Allowing only specific methods within the class to access the data.
+In JS we don't have these native means of having public, private or protected properties.

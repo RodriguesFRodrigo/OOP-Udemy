@@ -1,0 +1,8 @@
+Also known as composition.
+The actor of combining several objects into a larger one.
+This serves to not have a very large and complex object.
+In JavaScript, it is possible to use aggregation by creating compound objects that contain other objects as properties.
+
+Car Object (car compose engine and wheel)
+Engine Object
+wheel object

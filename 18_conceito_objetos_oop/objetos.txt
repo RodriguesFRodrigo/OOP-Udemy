@@ -1,0 +1,11 @@
+Representation of a class.
+It has properties that represent the characteristics of an object.
+It has methods that represent the actions of an object.
+
+properties
+  Car has a brand.
+  Car has a color.
+
+Methods
+  Car does (accelerates).
+  Car does (brakes).

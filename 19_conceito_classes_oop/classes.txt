@@ -1,0 +1,9 @@
+It's like the mold of the object.
+Usually several objects of the same class are created that use the properties and methods of the class adding their specificities.
+
+Example
+  Input Class
+  new inputText
+  new inputRadio
+  new inputSelect
+  ...
